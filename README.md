@@ -3,6 +3,7 @@
 1. ```cd git_hook_test```
 2. ```git clone server/repo.git project```
 3. do an example
+
 	```
 	echo "test3" >> test3.log
 	git add .
