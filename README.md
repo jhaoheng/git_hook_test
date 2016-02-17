@@ -10,6 +10,7 @@
 	git commit -m "add test3.log"
 	git push origin master
 	```
+4. go to ```server/deploy``` , watch file change!!
 	
 ## git hook use post-receive
 path : server/repo.git/hooks/
